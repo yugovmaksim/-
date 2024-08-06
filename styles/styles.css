@@ -1,0 +1,79 @@
+body {
+  font-family: "Manrope", sans-serif;
+  width: 100%;
+  background: #f5f5f5;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 125px;
+  width: 1400px;
+  background: #ffffff;
+}
+
+h1 {
+  margin-bottom: 30px;
+  width: 956px;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: #121212;
+}
+
+.blok1 {
+  padding-top: 379px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 150px;
+  background-image: url(/resources/Rectangle.png);
+  width: 1150px;
+  height: 500px;
+}
+
+.blok1-text1 {
+  width: 430px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27.32px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: white;
+}
+
+.blok2-text1 {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24.59px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  margin-bottom: 30px;
+  color: #121212;
+}
+
+.blok2-text2 {
+  width: 1048px;
+  height: 366px;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 61.47px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: #121212;
+}
+
+button {
+  margin-top: 30px;
+  display: block;
+  width: 255px;
+  height: 67px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 67px;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: #ad1818;
+  color: white;
+  cursor: pointer;
+}
